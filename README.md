@@ -2,6 +2,10 @@
 
 Éste curso práctico tiene como finalidad que el alumno sea capaz de utilizar herramientas tecnológicas para trabajar con datos, elaborar y corroborar hipótesis, explorar espacios de información, y apoyar la toma de decisiones. Particularmente, el curso se enfoca en tres unidades: análisis y exploración de datos, visualización de información y análisis de redes. 
 
+Profesores:
+- Diego Caro [tw](https://twitter.com/diegocaro)
+- Eduardo Graells-Garrido [tw](https://twitter.com/carnby) [www](http://datagramas.cl)
+
 ## Contenidos
 
 UNIDAD 1: Herramientas de laboratorio para análisis y recolección de datos
