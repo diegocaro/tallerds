@@ -1,62 +1,48 @@
 # Taller Data Science
 
-Éste curso práctico tiene como finalidad que el alumno sea capaz de utilizar herramientas tecnológicas para trabajar con datos, elaborar y corroborar hipótesis, explorar espacios de información, y apoyar la toma de decisiones. Particularmente, el curso se enfoca en tres unidades: análisis y exploración de datos, visualización de información y análisis de redes. 
+## Sobre el Curso
 
-Profesores:
-- Diego Caro [@diegocaro](https://twitter.com/diegocaro)
-- Eduardo Graells-Garrido [@carnby](https://twitter.com/carnby) http://datagramas.cl
+Este curso práctico tiene como finalidad que les alumnes sean capaces de utilizar herramientas tecnológicas   para   trabajar   con   datos,   elaborar   y   corroborar   hipótesis,   explorar   espacios   de información,   y   apoyar   la   toma   de   decisiones.   Particularmente,   el   curso   se   enfoca   en   tres   unidades: análisis y exploración de datos, visualización de información y ciencia de redes. 
+ 
+La intención de la primera unidad, **análisis y exploración de datos**, es que les   estudiantes puedan utilizar herramientas de procesamiento de datos y entornos de   programación para poder cargar, limpiar, evaluar, cruzar y explorar datasets en un   área aplicada específica, como transporte, redes sociales, o colecciones de documentos. 
 
-## Contenidos
+La segunda unidad, **visualización de información**, busca que les estudiantes puedan comunicar de manera gráfica los análisis realizados, las propiedades de los datos, las hipótesis de trabajo que guiaron la exploración, así como fomentar el espíritu crítico,   para que les estudiantes aprendan a interpretar gráficos y cuestionar decisiones estadísticas y gráficas. 
 
-UNIDAD 1: Herramientas de laboratorio para análisis y recolección de datos
+La tercera unidad, **ciencia de redes**, se enfoca en el análisis y construcción de redes,   donde las entidades que están presentes en un dataset no solamente existen individualmente, sino que también presentan relaciones entre ellas. El análisis de redes permite encontrar elementos importantes dentro de ellas (centralidad), determinar conjuntos de elementos que compartan propiedades (clustering) o que separan la red en sub-redes (detección de comunidades), o bien encontrar caminos (shortest path) entre elementos de una red, algo común en transportes y comunicaciones. 
 
-* Introducción:
-	* ¿Qué es Data Science? ¿Cuál es el propósito?
-	* ¿Por qué es importante para la industria moderna?
-	* Entornos científicos e industriales para análisis de información (Tableau, Jupyter Notebooks, etc.).
-	* Investigación reproducible
-* Python - un lenguaje interpretado
-	* Sintaxis, variables y control de flujo
-	* Entrada y salida de datos, funciones
-	* Ecosistema de módulos y herramientas
-* Pandas 
-	* Leyendo información desde archivos 
-	* DataFrames como análogos de las planillas de cálculo, pero con un potencial mayor al poder usarlos desde un entorno de programación y análisis.
-	* Limpieza y calidad de datos.
-	* Consulta, agrupamiento y filtros de datos en DataFrames.
-	* Métodos estadísticos con Pandas
+### Profesores
 
-UNIDAD 2: Visualización de Información
+[Diego Caro](http://spacetime.cl) y [Eduardo Graells-Garrido](http://datagramas.cl) del [Instituto de Data Science](http://datascience.udd.cl), [Ingeniería UDD](http://ingenieria.udd.cl). 
 
-* Introducción
-	* ¿Qué es visualización de información (InfoVis)?
-	* ¿Por qué usar InfoVis?
-* Abstracciones
-	* Marcas y Canales gráficas.
-	* ¿Qué?: Abstracciones de datos (estructuras).
-	* ¿Por qué?: Abstracciones de tareas que se realizan con los datos (búsqueda, selección proyección, filtrado, etc.)
-* Visualización y Estructuras de Datos
-	* Tablas y Matrices.
-	* Datos Geoespaciales.
-        * Redes y Árboles.
-* Percepción: Colores y otros canales.
-* Buenas Prácticas e Interacción
-	* Manipulación de vistas.
-	* Facetas: múltiples vistas.
-	* Reducción de complejidad.
-	* Cuatro niveles de validación: el dominio en el que se usará la visualización, la abstracción de los datos y de las tareas a realizar, la codificación visual a utilizar, el algoritmo de procesamiento de los datos.
+Nuestros correos son ```dcaro``` y ```egraells``` en ```udd.cl```.
 
-UNIDAD 3: Análisis de Redes
+### Estructura de Clase
 
-* Introducción:
-	* ¿Qué es un red? 
- 	* Tipos de redes en la vida cotidiana
-	* Teoría de Grafos
-* Herramientas de análisis de redes:
-	* Métricas de importancia a nivel de unidad (centralidad)
-	* Métodos de caracterización a nivel global 
-	* Técnicas de agrupamiento y segmentación (clustering, detección de comunidades)
-* Análisis de redes por disciplina:
-	* Análisis de redes sociales
-	* Análisis de redes de colaboración
-	* Análisis de redes urbanas (infraestructura, transporte)
+Cada clase realizaremos las siguientes actividades:
+
+  * Discusión de lectura obligatoria (uno de los artículos académicos indicados más abajo).
+  * Seguimiento del estado de los proyectos de cada grupo/alumne.
+  * Revisiones de tareas entregadas en la clase anterior.
+  * Enseñaremos contenido teórico.
+  * Nos enfocaremos en el código necesario para implementar, entender y experimentar con el contenido teórico. 
+
+### Horario
+
+Versión 2017.2. Jueves, 14:30 a 17:20. Sala Taller Y035, Campus RESB, Universidad del Desarrollo. 
+
+### Requisitos
+
+Debes tener conocimientos sólidos de estadística y básicos de programación. Utilizaremos el lenguaje Python en sus versiones 3.5 o 3.6.
+
+## Recursos
+
+Herramientas:
+
+  * [Anaconda](https://www.continuum.io/downloads), distribución de Python con todo el entorno científico necesario para el curso, incluyendo las bibliotecas que usaremos: pandas, geopandas, seaborn, statsmodels, networkx, scikit-learn, entre otras.
+  * [Jupyter](http://jupyter.org/), entorno de computación científica y desarrollo, enfocado en ciencia de datos. Funciona principalmente con Python pero también tiene interoperabilidad con otros lenguajes usados en el área, como R. [Aquí se puede probar en línea](https://try.jupyter.org/).
+
+Tutoriales, contenido:
+
+  * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) de Jake Vanderplas.
+  * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) de Jake Vanderplas.
+  * [Network Science](http://barabasi.com/networksciencebook/) de Albert-László Barabási.
