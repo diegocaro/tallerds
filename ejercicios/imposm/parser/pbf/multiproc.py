@@ -89,7 +89,7 @@ if __name__ == '__main__':
                     break
                 count += len(nodes)
                 queue.task_done()
-            print type, count
+            print(type, count)
         return count
 
 

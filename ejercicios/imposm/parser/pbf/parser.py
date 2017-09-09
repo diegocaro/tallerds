@@ -388,10 +388,10 @@ if __name__ == '__main__':
     from timeit import Timer
     n = 1
     r = 1
-    print "reading %s, number of calls: %d, repeat: %d" %(sys.argv[1],n,r)
+    #print "reading %s, number of calls: %d, repeat: %d" %(sys.argv[1],n,r)
     t = Timer("read_pbf(sys.argv[1])", "from __main__ import read_pbf")
     times = t.repeat(r,n)
     avrg_times = []
     for time in times:
         avrg_times.append(time/n)                  
-    print "avrg time/call: %f" %(min(avrg_times))
+    #print "avrg time/call: %f" %(min(avrg_times))
