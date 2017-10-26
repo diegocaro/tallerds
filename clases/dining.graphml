@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="choice" attr.type="string" for="edge" id="choice"/>
+<graph edgedefault="directed">
+<node id="1">
+<data key="label">Ada</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">17.135511</data>
+<data key="y">21.474857</data>
+</node>
+<node id="2">
+<data key="label">Cora</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-20.389584</data>
+<data key="y">-1.057044</data>
+</node>
+<node id="3">
+<data key="label">Louise</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-2.9947093</data>
+<data key="y">5.9610257</data>
+</node>
+<node id="4">
+<data key="label">Jean</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-21.372583</data>
+<data key="y">7.577542</data>
+</node>
+<node id="5">
+<data key="label">Helen</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-20.873674</data>
+<data key="y">21.849583</data>
+</node>
+<node id="6">
+<data key="label">Martha</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-23.80168</data>
+<data key="y">-16.455025</data>
+</node>
+<node id="7">
+<data key="label">Alice</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">7.7992043</data>
+<data key="y">20.656754</data>
+</node>
+<node id="8">
+<data key="label">Robin</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">15.11181</data>
+<data key="y">15.887564</data>
+</node>
+<node id="9">
+<data key="label">Marion</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">16.361074</data>
+<data key="y">0.30075532</data>
+</node>
+<node id="10">
+<data key="label">Maxine</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">15.772659</data>
+<data key="y">2.9273267</data>
+</node>
+<node id="11">
+<data key="label">Lena</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">20.837988</data>
+<data key="y">10.460975</data>
+</node>
+<node id="12">
+<data key="label">Hazel</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">5.2921534</data>
+<data key="y">0.12064879</data>
+</node>
+<node id="13">
+<data key="label">Hilda</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-0.54971325</data>
+<data key="y">6.3211083</data>
+</node>
+<node id="14">
+<data key="label">Frances</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-10.191569</data>
+<data key="y">-24.36704</data>
+</node>
+<node id="15">
+<data key="label">Eva</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-3.972005</data>
+<data key="y">22.456789</data>
+</node>
+<node id="16">
+<data key="label">Ruth</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">11.9266815</data>
+<data key="y">10.359848</data>
+</node>
+<node id="17">
+<data key="label">Edna</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">23.137293</data>
+<data key="y">-23.236921</data>
+</node>
+<node id="18">
+<data key="label">Adele</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">14.319572</data>
+<data key="y">14.911978</data>
+</node>
+<node id="19">
+<data key="label">Jane</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">23.7758</data>
+<data key="y">10.264356</data>
+</node>
+<node id="20">
+<data key="label">Anna</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-20.0089</data>
+<data key="y">4.6847444</data>
+</node>
+<node id="21">
+<data key="label">Mary</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-21.136456</data>
+<data key="y">22.409016</data>
+</node>
+<node id="22">
+<data key="label">Betty</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-10.517467</data>
+<data key="y">-24.450428</data>
+</node>
+<node id="23">
+<data key="label">Ella</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">21.438107</data>
+<data key="y">23.023537</data>
+</node>
+<node id="24">
+<data key="label">Ellen</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-24.613066</data>
+<data key="y">6.9323134</data>
+</node>
+<node id="25">
+<data key="label">Laura</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">-12.543386</data>
+<data key="y">-8.5146265</data>
+</node>
+<node id="26">
+<data key="label">Irene</data>
+<data key="size">2.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">14.939175</data>
+<data key="y">-13.9148035</data>
+</node>
+<edge id="2" source="1" target="2">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="1" source="1" target="3">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="3" source="2" target="1">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="4" source="2" target="4">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="5" source="3" target="9">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="6" source="3" target="11">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="7" source="4" target="5">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="8" source="4" target="8">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="9" source="5" target="4">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="10" source="5" target="15">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="11" source="6" target="9">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="12" source="6" target="20">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="14" source="7" target="6">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="13" source="7" target="15">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="16" source="8" target="5">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="15" source="8" target="15">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="17" source="9" target="6">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="18" source="9" target="14">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="20" source="10" target="15">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="19" source="10" target="18">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="22" source="11" target="3">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="21" source="11" target="9">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="23" source="12" target="13">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="24" source="12" target="20">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="26" source="13" target="12">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="25" source="13" target="22">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="28" source="14" target="9">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="27" source="14" target="15">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="30" source="15" target="9">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="29" source="15" target="10">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="32" source="16" target="13">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="31" source="16" target="19">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="34" source="17" target="18">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="33" source="17" target="21">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="36" source="18" target="9">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="35" source="18" target="14">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="37" source="19" target="18">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="38" source="19" target="21">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="39" source="20" target="10">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="40" source="20" target="11">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="41" source="21" target="17">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="42" source="21" target="19">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="44" source="22" target="13">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="43" source="22" target="17">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="46" source="23" target="5">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="45" source="23" target="24">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="48" source="24" target="17">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="47" source="24" target="20">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="49" source="25" target="15">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="50" source="25" target="17">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+<edge id="51" source="26" target="13">
+<data key="weight">1.0</data>
+<data key="choice">1.0</data>
+</edge>
+<edge id="52" source="26" target="24">
+<data key="weight">1.0</data>
+<data key="choice">2.0</data>
+</edge>
+</graph>
+</graphml>
