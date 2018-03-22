@@ -28,7 +28,7 @@ Cada clase realizaremos las siguientes actividades:
 
 ### Horario
 
-Versión 2017.2. Jueves, 14:30 a 17:20. Sala Taller Y035, Campus RESB, Universidad del Desarrollo. 
+Versión 2018.1. Jueves, 14:30 a 17:20. Sala Computación 033, Campus RESB, Universidad del Desarrollo. 
 
 ### Requisitos
 
@@ -40,6 +40,7 @@ Herramientas:
 
   * [Anaconda](https://www.continuum.io/downloads), distribución de Python con todo el entorno científico necesario para el curso, incluyendo las bibliotecas que usaremos: pandas, geopandas, seaborn, statsmodels, networkx, scikit-learn, entre otras.
   * [Jupyter](http://jupyter.org/), entorno de computación científica y desarrollo, enfocado en ciencia de datos. Funciona principalmente con Python pero también tiene interoperabilidad con otros lenguajes usados en el área, como R. [Aquí se puede probar en línea](https://try.jupyter.org/).
+  * [Google Colab](https://colab.research.google.com/), un Jupyter notebook colaborativo desarrollado por Google. La ventaja es que dos o más personas pueden editar el notebook, tal como funciona Google Docs.
 
 Tutoriales, contenido:
 
